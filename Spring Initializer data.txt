@@ -1,0 +1,20 @@
+Project - Maven
+Language - Java
+Spring Boot - 2.7.17
+Packaging - Jar
+Java - 17
+
+Group - com.project
+Artifact - CustomName
+Name - CustomName
+Description - Project  Kanban Board 
+package Name - com.demo.customName
+
+ *********************************************************************
+
+-> authentication - Spring Web (WEB), MySQL Driver (SQL), Spring Data JPA (SQL)
+-> kanban service - Spring Web (WEB), Spring Data MongoDB (NOSQL)
+-> Notification - Spring Web (WEB), Spring Data MongoDB (NOSQL)
+-> Api gateway - Gateway (SPRING CLOUD ROUTING)
+-> Eureka - Eureka Server (SPRING CLOUD DISCOVERY)
+-> EmailSender - Java Mail Sender (I/O)
